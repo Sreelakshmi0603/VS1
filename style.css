@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    text-decoration-color: darkcyan;
+    color: rgb(211, 14, 73);
+}
+h2{
+    color:rgb(211, 14, 73) ;
+}
+td {
+    text-align: left;
+}
+th{
+    color:rgb(211, 14, 73);
+    border:1px solid #000;
+    border-collapse: collapse
+    
+}
+table ,td {
+    border:1px solid #000;
+    border-collapse: collapse;
+
+}
+table{
+    margin-left: 2;
+    height: 10cm;
+    width: 30cm;
+    : ;
+    
+    
+}
+th, td {
+    padding: 5px;
+
+}
+
+
+
